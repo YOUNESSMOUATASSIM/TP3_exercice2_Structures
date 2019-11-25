@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1574642975 source:h:\c_c++\tp3_exercice2_cpp\main.cpp
+	<iostream>
+	<string.h>
+	<cstring>
+	"Produit.h"
+	"Liste_P.h"
+
+1574637088 h:\c_c++\tp3_exercice2_cpp\produit.h
+
+1574637082 source:h:\c_c++\tp3_exercice2_cpp\produit.cpp
+	"Produit.h"
+	<string.h>
+	<iostream>
+
+1574643069 source:h:\c_c++\tp3_exercice2_cpp\liste_p.cpp
+	"Liste_P.h"
+	<string.h>
+	<iostream>
+
+1574638985 h:\c_c++\tp3_exercice2_cpp\liste_p.h
+	"Produit.h"
+
